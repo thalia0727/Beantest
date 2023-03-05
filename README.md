@@ -1,1 +1,3 @@
 # Beantest
+test
+test
